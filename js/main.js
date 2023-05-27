@@ -22,7 +22,7 @@ $(document).ready(function () {
     }
   }
 
-  // checkLng();
+  checkLng();
   if (window.screen.width <= 600) {
     console.log("JHFISDJFOIJEIOJFSEJFd")
     $(".header__logo-img").attr("src", "img/burger/logo.svg")
